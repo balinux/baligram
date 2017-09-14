@@ -1,0 +1,14 @@
+{
+    "name": "balinux/message",
+    "description": "package get data instagram API",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "balinux",
+            "email": "ryojuniyantara@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
